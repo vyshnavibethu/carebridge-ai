@@ -1,0 +1,122 @@
+[
+  {
+    "id": "kb_001",
+    "topic": "Abdominal Pain and Vomiting",
+    "specialty": "Gastroenterologist",
+    "symptoms": ["stomach pain", "abdominal pain", "vomiting", "nausea", "cramping", "indigestion"],
+    "simple_explanation": "Stomach pain and vomiting can happen when the lining of your stomach or intestines gets irritated. This is commonly caused by viral gastroenteritis (stomach flu), food intolerance, or mild food poisoning.",
+    "possible_explanations": [
+      "Viral Gastroenteritis (Stomach Flu) - temporary inflammation of the stomach and intestines.",
+      "Dietary Irritation or Food Sensitivity - reaction to specific foods or spices.",
+      "Mild Gastritis - temporary irritation of the stomach lining."
+    ],
+    "medical_terms": {
+      "Gastroenteritis": "Inflammation of the stomach and small intestine, often leading to nausea or diarrhea.",
+      "Gastritis": "Irritation or swelling of the lining of the stomach.",
+      "Emesis": "The medical term for vomiting or throwing up."
+    },
+    "general_guidance": "Stay hydrated with small sips of water or oral rehydration solutions. Rest your stomach by eating bland foods like toast or rice when ready. Avoid greasy, spicy, or caffeine-rich foods.",
+    "source_name": "Mayo Clinic - Gastroenterology Basics",
+    "source_url": "https://www.mayoclinic.org/diseases-conditions/gastroenteritis/symptoms-causes/syc-20375674"
+  },
+  {
+    "id": "kb_002",
+    "topic": "Skin Rash, Redness, and Itching",
+    "specialty": "Dermatologist",
+    "symptoms": ["rash", "skin redness", "itching", "hives", "eczema", "dry skin", "bumps"],
+    "simple_explanation": "Skin rashes and itching often occur when your skin reacts to an allergen, irritant, or environmental change. Contact dermatitis or mild eczema are frequent causes.",
+    "possible_explanations": [
+      "Contact Dermatitis - skin reaction caused by touching an allergen or harsh product.",
+      "Mild Eczema (Atopic Dermatitis) - a condition causing dry, itchy, and reddened skin patches.",
+      "Heat Rash or Mild Urticaria - temporary skin reaction due to heat or sweat."
+    ],
+    "medical_terms": {
+      "Dermatitis": "General term for skin inflammation causing redness and itching.",
+      "Pruritus": "The medical name for itching of the skin.",
+      "Erythema": "Redness of the skin caused by increased blood flow in superficial capillaries."
+    },
+    "general_guidance": "Keep the affected skin clean and gently moisturized. Avoid harsh soaps or known irritants. Wash with mild water and refrain from scratching to prevent secondary skin infections.",
+    "source_name": "American Academy of Dermatology (AAD)",
+    "source_url": "https://www.aad.org/public/everyday-care/skin-care-basics"
+  },
+  {
+    "id": "kb_003",
+    "topic": "Sore Throat, Earache, and Nasal Congestion",
+    "specialty": "ENT Specialist",
+    "symptoms": ["sore throat", "ear ache", "earache", "nasal congestion", "runny nose", "sinus pressure", "hoarseness"],
+    "simple_explanation": "Sore throat, nasal congestion, and ear discomfort usually affect the upper respiratory tract. They are often triggered by viral upper respiratory infections or allergic rhinitis.",
+    "possible_explanations": [
+      "Viral Upper Respiratory Infection - common cold or viral throat irritation.",
+      "Allergic Rhinitis (Hay Fever) - allergic response causing nasal blockage and throat tickle.",
+      "Mild Sinusitis - pressure or inflammation in the sinuses."
+    ],
+    "medical_terms": {
+      "Pharyngitis": "Inflammation of the throat (pharynx), causing sore throat.",
+      "Rhinitis": "Inflammation of the mucous membranes inside the nose.",
+      "Otalgia": "Medical term for ear pain or earache."
+    },
+    "general_guidance": "Drink warm liquids like tea or broth. Use steam inhalation or saline nasal sprays to relieve sinus pressure. Rest your voice and get adequate sleep.",
+    "source_name": "CDC - Upper Respiratory Infections & Ear Health",
+    "source_url": "https://www.cdc.gov/antibiotic-use/sore-throat.html"
+  },
+  {
+    "id": "kb_004",
+    "topic": "General Fatigue, Mild Fever, and Body Aches",
+    "specialty": "General Physician",
+    "symptoms": ["fever", "fatigue", "body pain", "headache", "mild fever", "tiredness", "weakness"],
+    "simple_explanation": "Mild fever, fatigue, and general body aches are common responses by your body's immune system when reacting to temporary viral infections or physical overexertion.",
+    "possible_explanations": [
+      "Viral Illness / Mild Flu Syndrome - common immune response to viral exposure.",
+      "Physical Overexertion or Dehydration - tiredness caused by lack of fluids or rest.",
+      "Mild Tension Headache - head discomfort related to stress or eye strain."
+    ],
+    "medical_terms": {
+      "Pyrexia": "The medical term for fever or elevated body temperature.",
+      "Myalgia": "Muscle aches or pains.",
+      "Malaise": "A general feeling of discomfort, illness, or uneasiness."
+    },
+    "general_guidance": "Prioritize bed rest and stay well hydrated. Monitor your temperature periodically. Eat lightweight, nutritious meals.",
+    "source_name": "World Health Organization (WHO) - Common Viral Illness Guidance",
+    "source_url": "https://www.who.int/news-room/fact-sheets"
+  },
+  {
+    "id": "kb_005",
+    "topic": "Acid Reflux and Heartburn",
+    "specialty": "Gastroenterologist",
+    "symptoms": ["heartburn", "acid reflux", "chest burning", "indigestion", "bloating", "sour taste"],
+    "simple_explanation": "Heartburn or acid reflux happens when stomach acid flows back up into the esophagus, causing a warm or burning sensation in the chest area after meals.",
+    "possible_explanations": [
+      "Gastroesophageal Reflux (GERD) - backflow of stomach acid into the esophagus.",
+      "Functional Dyspepsia - persistent indigestion without an organic cause.",
+      "Diet-Induced Acid Irritation - triggered by heavy, acidic, or oily meals."
+    ],
+    "medical_terms": {
+      "Dyspepsia": "Indigestion or discomfort in the upper abdomen.",
+      "Esophagitis": "Inflammation of the tube connecting the throat to the stomach.",
+      "Reflux": "The backward flow of digestive juices."
+    },
+    "general_guidance": "Eat smaller, more frequent meals. Avoid lying down within 2 to 3 hours after eating. Stay away from triggers such as spicy foods, chocolate, and carbonated drinks.",
+    "source_name": "PubMed Health - Acid Reflux & GERD Overview",
+    "source_url": "https://www.ncbi.nlm.nih.gov/pmc/"
+  },
+  {
+    "id": "kb_006",
+    "topic": "Sinusitis and Facial Pressure",
+    "specialty": "ENT Specialist",
+    "symptoms": ["sinus pain", "facial pressure", "blocked nose", "loss of smell", "post-nasal drip"],
+    "simple_explanation": "Facial pressure and nasal congestion occur when cavity passages behind your forehead, cheeks, and nose become inflamed or filled with mucus.",
+    "possible_explanations": [
+      "Acute Rhinosinusitis - temporary inflammation of nasal sinuses.",
+      "Environmental Allergies - swollen nasal membranes due to dust or pollen.",
+      "Nasal Congestion - swelling of nasal blood vessels."
+    ],
+    "medical_terms": {
+      "Sinusitis": "Inflammation of the tissue lining the sinuses.",
+      "Post-nasal Drip": "Accumulation of mucus dripping down the back of the throat.",
+      "Anosmia": "Partial or complete loss of the sense of smell."
+    },
+    "general_guidance": "Use warm compresses over your forehead and cheeks. Maintain good hydration to thin nasal mucus. Warm shower steam can help clear passages.",
+    "source_name": "American Rhinologic Society (ARS)",
+    "source_url": "https://www.enthealth.org/conditions/sinusitis/"
+  }
+]
