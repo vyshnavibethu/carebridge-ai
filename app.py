@@ -19,7 +19,7 @@ st.set_page_config(
 )
 
 # Environment variables
-API_URL = os.getenv("HOSPITAL_API_URL", "http://127.0.0.1:8000")
+API_URL = os.getenv("HOSPITAL_API_URL", "https://carebridge-ai-lun8.onrender.com")
 
 # Session State Initialization (Theme and Workflow state)
 if "theme" not in st.session_state:
