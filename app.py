@@ -188,26 +188,19 @@ with col_theme:
         st.rerun()
 
 st.markdown("---")
+# Check Hospital API Health silently
+is_api_healthy = check_hospital_health(API_URL)
 
 # --- SIDEBAR ---
 with st.sidebar:
-    st.header("🏥 Hospital Connection")
-    
-    # Check Hospital API Health
-    is_api_healthy = check_hospital_health(API_URL)
-    if is_api_healthy:
-        st.success(f"Backend Connected\n`{API_URL}`")
-    else:
-        st.error(f"Backend Disconnected\n`{API_URL}`\nPlease start FastAPI server.")
-
-    st.markdown("---")
     st.header("🔒 Privacy Notice")
     st.info(
         "CareBridge AI is a demonstration healthcare navigator. "
-        "Please avoid entering unnecessary personally identifying information (such as SSN, full home address, or government IDs). "
+        "Please avoid entering unnecessary personally identifying information "
+        "(such as SSN, full home address, or government IDs). "
         "All data processed remains private within this demo environment."
     )
-    
+
     st.markdown("---")
     st.markdown("### 📋 Supported Specialties")
     st.markdown("- 👨‍⚕️ General Physician")
