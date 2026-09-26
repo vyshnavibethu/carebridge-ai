@@ -493,8 +493,7 @@ with tab_lab:
                         <div class='cb-title'>🧪 {test['name']}</div>
                         <div class='cb-subtext'>
                             • <strong>Role in Body:</strong> {test['role']}<br>
-                            • <strong>Simple Explanation:</strong> {test['low_explanation']}<br>
-                            • <strong>General Dietary Sources:</strong> {test['dietary_sources']}
+• <strong>Simple Explanation:</strong> {test.get('low_explanation', 'This result should be interpreted in the context of your symptoms and reference range.')}<br>                            • <strong>General Dietary Sources:</strong> {test['dietary_sources']}
                         </div>
                     </div>
                     """, unsafe_allow_html=True)
